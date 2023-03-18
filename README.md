@@ -1,4 +1,4 @@
-## <div align="center">Hey 👋, I'm Krau(柯罗), a learning undergraduate from China.📚</div>  
+## <div align="center">Hey 👋, I'm 安和, a learning undergraduate from China.📚</div>  
 
 <br/>  
 
