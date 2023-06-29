@@ -7,11 +7,9 @@
 ## Rapidfire  
 <tr><td valign="top" width="50%">
 
-- 🌱 I’m currently learning Golang&Gin.  
+- 🌱 I’m currently learning Java&JavaScript.  
   
 - ✏️ I’m using [Typecho](https://github.com/typecho/typecho) to build [my blog](https://nekocoffee.com).  
-  
-- 😐 I hate studying for exams and certificates.
 
 
 </td><td valign="top" width="50%">
