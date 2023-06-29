@@ -1,5 +1,5 @@
 
-## 📚Rapidfire  
+## 📚 Rapidfire  
 <tr><td valign="top" width="50%">
 
 - 🌱 I’m currently learning Java&JavaScript.  
@@ -21,6 +21,6 @@
  
 
 
-## ⭐Github Stats  
+## ⭐ Github Stats  
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ahcorn&theme=transparent&locale=zh_Hans&card_width=650)](https://git.io/streak-stats)
