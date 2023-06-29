@@ -48,8 +48,7 @@
 
 ## Github Stats  
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ahcorn&theme=ambient-gradient&locale=zh_Hans&card_width=500)](https://git.io/streak-stats)
-
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ahcorn&theme=transparent&locale=zh_Hans&card_width=650)](https://git.io/streak-stats)
 
 <div align="center">
 <img src="https://visitor-badge.glitch.me/badge?page_id=krau.krau" align="center" />
