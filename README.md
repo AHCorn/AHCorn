@@ -48,8 +48,7 @@
 
 ## Github Stats  
 
-
-<img align="" height="137px" src="https://github-readme-stats.vercel.app/api?username=AHCorn&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&line_height=21&bg_color=0,EC6C6C,FFD479,FFFC79,73FA79&theme=graywhite" /><img align="" height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AHCorn&hide=HTML&hide_title=true&hide_border=true&layout=compact&bg_color=0,73FA79,73FDFF,D783FF&theme=graywhite&locale=cn" />
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ahcorn&theme=ambient-gradient&locale=zh_Hans&card_width=500)](https://git.io/streak-stats)
 
 
 <div align="center">
