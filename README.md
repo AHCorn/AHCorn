@@ -35,4 +35,4 @@
 ## ⭐ Github 统计  
 
 ![](https://github-readme-stats.vercel.app/api?username=AHCorn&theme=default&hide_border=false&include_all_commits=false&count_private=false&show_icons=true)
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=AHCorn&date_format=%5BY.%5Dn.j&card_width=450)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ahcorn&theme=transparent&locale=zh_Hans&card_width=400&hide_current_streak=true)](https://git.io/streak-stats)
