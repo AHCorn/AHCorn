@@ -1,6 +1,6 @@
 <div align="center">
  
-<h1> 安和🍊 - Yasukazu</h1>
+<h1> 安和<img style="width:32px;vertical-align:sub;padding-left:5px;" src="https://i.imgtg.com/2023/06/30/OkSWlM.png"> - Yasukazu</h1>
 
 ### 看似寻常最奇崛，成如容易却艰辛。
 
@@ -20,7 +20,7 @@
 
 - 🌱 2017年时因为做博客开始接触前端，不过至今水平依然很差 :(
 
-- 🏫 2022级计算机科学与技术专业
+- 🎓 2022级计算机科学与技术专业
  
 - 💻 最近在学习 Java 和 Javascript
   
