@@ -24,7 +24,7 @@
  
 - 💻 最近在学习 Java 和 Javascript
   
-- ✏️ 使用 [Typecho](https://github.com/typecho/typecho) 构建了 [安和Blog](https://nekocoffee.com)  
+- ✏️ 使用 [Hugo](https://gohugo.io) 构建了 [安和Blog](https://ahcorn.github.io)  
 
 
 </td></tr>
