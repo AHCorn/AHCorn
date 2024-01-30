@@ -25,9 +25,9 @@
 ## <img  style="width:45px;height:45px;vertical-align:sub;" src="https://i.imgtg.com/2023/06/30/OkQCBx.gif"> 个人简介 
 <tr><td valign="top" width="50%">
 
-- 🌱 2017年时因为做博客开始接触前端，不过至今水平依然很差 :(
+- 🌱 2017 年时因为做博客开始接触前端，不过至今水平依然很差 :(
 
-- 🎓 2022级计算机科学与技术专业
+- 🎓 2022 级计算机科学与技术专业
  
 - 💻 最近在学习 Java 和 Javascript
   
