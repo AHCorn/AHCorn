@@ -2,7 +2,7 @@
 
 
  
-<h1> 安和<img style="width:32px;vertical-align:sub;padding-left:5px;" src="https://i.imgtg.com/2023/06/30/OkSWlM.png"> - Yasukazu</h1>
+<h1> 安和 <img style="width:32px;vertical-align:sub;padding-left:5px;" src="https://i.imgtg.com/2023/06/30/OkSWlM.png"> - Yasukazu</h1>
 
 
 ### 简体中文 / <a href="https://github.com/AHCorn/AHCorn/blob/main/README_EN.md"> English </a> 
