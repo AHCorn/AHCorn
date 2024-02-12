@@ -22,7 +22,7 @@
 
 
 
-## <img  style="width:45px;height:45px;vertical-align:sub;" src="https://i.imgtg.com/2023/06/30/OkQCBx.gif"> 个人简介 
+## ⭐ 个人简介 
 <tr><td valign="top" width="50%">
 
 - 🌱 2017 年时因为做博客开始接触前端，不过至今水平依然很差 :(
@@ -44,7 +44,7 @@
  
 
 
-## <img  style="width:45px;height:45px;vertical-align:sub;" src="https://i.imgtg.com/2023/06/30/OkSM0p.gif"> Github 统计  
+## 📈 Github 统计  
 
 ![](https://github-readme-stats.vercel.app/api?username=AHCorn&theme=default&hide_border=false&include_all_commits=false&count_private=false&show_icons=true)
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ahcorn&card_width=360&hide_current_streak=true)](https://git.io/streak-stats)
