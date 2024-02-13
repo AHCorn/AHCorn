@@ -16,7 +16,7 @@
 
 
 
-## <img  style="width:45px;height:45px;vertical-align:sub;" src="https://i.imgtg.com/2023/06/30/OkQCBx.gif"> Personal profile 
+## ⭐ Personal profile 
 <tr><td valign="top" width="50%">
 
 - 🌱 In 2017, I started delving into front-end development due to my interest in blogging. However, my skills in this area remain significantly lacking to this day. :(
@@ -38,7 +38,7 @@
  
 
 
-## <img  style="width:45px;height:45px;vertical-align:sub;" src="https://i.imgtg.com/2023/06/30/OkSM0p.gif"> Github statistics  
+## 📈 Github statistics  
 
 ![](https://github-readme-stats.vercel.app/api?username=AHCorn&theme=default&hide_border=false&include_all_commits=false&count_private=false&show_icons=true)
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ahcorn&card_width=360&hide_current_streak=true)](https://git.io/streak-stats)
