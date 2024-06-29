@@ -27,7 +27,7 @@
 
 - 🎓 2022 级计算机科学与技术专业
  
-- 💻 最近在学习 Java 和 Javascript
+- 💻 最近在学习 Python 和 Javascript
   
 - ✏️ 使用 [Hugo](https://gohugo.io) 构建了 [安和Blog](https://ahcorn.github.io)  
 
