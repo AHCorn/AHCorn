@@ -4,7 +4,7 @@
  
 
 
-### 简体中文 / <a href="https://github.com/AHCorn/AHCorn/blob/main/README_EN.md"> English </a> 
+### 简体中文 | <a href="https://github.com/AHCorn/AHCorn/blob/main/README_EN.md"> English </a> 
 
 ### 看似寻常最奇崛，成如容易却艰辛。
 
